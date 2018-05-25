@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>Le tombeau de Marguerite de Valois</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Hecatodistichon</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Le tombeau de Marguerite de Valois royne de Navarre, faict premierement en disticques latins par les trois sœurs princesses en Angleterre</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Warwick, Anne Dudley,  Countess of</namePart>
+         <displayForm>Lady Anne Seymour</displayForm>
+      </name>
+      <name type="personal">
+         <namePart>Seymour, Lady Margaret</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Seymour, Lady Jane</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">book</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Paris</placeTerm>
+         </place>
+         <publisher>M. Fezandat, and R. Granion</publisher>
+         <dateIssued encoding="iso8601">1551--</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2005-06-05</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2005-06-13</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2005-07-04</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2006-02-01</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2006-03-22</recordChangeDate>
+         <recordIdentifier source="Orlando">34148</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

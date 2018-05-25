@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>Our Daughters' Future: The Marriage Problem; Girls as Colonists; A Dowry System Suggested</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Tynan, Katharine</namePart>
+      </name>
+      <relatedItem type="host">
+         <titleInfo usage="primary">
+            <title>Times</title>
+         </titleInfo>
+         <originInfo>
+            <dateIssued encoding="iso8601">1922-05-01</dateIssued>
+         </originInfo>
+         <part>
+            <detail type="issue">
+               <number>43019</number>
+            </detail>
+            <extent unit="page">
+               <start>19</start>
+            </extent>
+         </part>
+      </relatedItem>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <typeOfResource>text</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">article</genre>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2005-06-03</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2006-02-08</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2006-12-19</recordChangeDate>
+         <recordIdentifier source="Orlando">34109</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

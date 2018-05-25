@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>Mary Molesworth Monck and Coterie Translation</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Wright, Gillian</namePart>
+      </name>
+      <relatedItem type="host">
+         <titleInfo usage="primary">
+            <title>Leviathan to Licensing Act (1650-1737): Theatre, Print and their Contexts, Loughborough, Leicestershire</title>
+         </titleInfo>
+         <originInfo>
+            <dateIssued encoding="iso8601">2004-09-15</dateIssued>
+         </originInfo>
+      </relatedItem>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">script</genre>
+      <genre displayLabel="Item Type">Unpublished conference paper</genre>
+      <note type="internal_note">conference paper, not checkable</note>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2004-09-20</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2005-03-15</recordChangeDate>
+         <recordIdentifier source="Orlando">28414</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>Paul Durcan, Brendan Kennelly, Michael Longley, Medbh McGuckian</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Durcan, Paul</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kennelly, Brendan</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Longley, Michael</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McGuckian, Medbh</namePart>
+      </name>
+      <relatedItem type="series">
+         <titleInfo type="uniform" usage="primary">
+            <title>Poetry Quartets</title>
+         </titleInfo>
+         <part>
+            <detail type="volume">
+               <number>4</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <typeOfResource>sound recording</typeOfResource>
+      <genre displayLabel="Item Type">sound</genre>
+      <genre displayLabel="Item Type">speech</genre>
+      <genre displayLabel="Item Type">voice recording</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>British Council; Bloodaxe Books</publisher>
+         <dateIssued encoding="iso8601">1999--</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>2 sound cassettes</extent>
+      </physicalDescription>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2002-07-12</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2002-07-12</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2002-07-12</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2002-07-16</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2002-09-09</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2002-11-02</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-11-10</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2011-03-18</recordChangeDate>
+         <recordIdentifier source="Orlando">13603</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

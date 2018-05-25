@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>Two Letters to Sidney Tongue</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Wolferstan, Elizabeth Pipe</namePart>
+         <displayForm>E. P. Wolferstan</displayForm>
+      </name>
+      <name>
+         <namePart>Tongue, Sidney</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">recipient</roleTerm>
+            <roleTerm type="code" authority="marcrelator">rcp</roleTerm>
+         </role>
+      </name>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Bodleian Library, shelfmark Vet. A6 e. 1059</placeTerm>
+         </place>
+         <dateIssued/>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">letter</genre>
+      <note type="public_note">Letters bound into a composite volume of Wolferstan's writings compiled by Mrs. Sidney Tongue.</note>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2004-06-07</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2004-06-07</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2004-06-07</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2004-06-07</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2004-06-08</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2004-06-29</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2004-06-29</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2004-06-29</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2006-09-28</recordChangeDate>
+         <recordIdentifier source="Orlando">26066</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

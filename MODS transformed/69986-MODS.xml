@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>
+            <extension>
+               <tei:name standard="o'conor eccles, charlotte">O'Conor-Eccles</tei:name>
+            </extension>
+         </title>
+      </titleInfo>
+      <relatedItem type="host">
+         <titleInfo usage="primary">
+            <title>Library Ireland</title>
+         </titleInfo>
+         <originInfo>
+            <dateOther type="dateAccessed" encoding="iso8601">2011-10-19</dateOther>
+         </originInfo>
+         <location>
+            <url dateLastAccessed="2011-10-19">http://www.libraryireland.com/</url>
+         </location>
+      </relatedItem>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <typeOfResource>software, multimedia</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">web site</genre>
+      <note type="public_note">Information on the family here derives from John O'Hart, Irish Pedigrees; or the Origin and Stem of the Irish Nation, 1876.</note>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2011-10-19</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2011-10-19</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2011-12-14</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2011-12-14</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2011-12-14</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2011-12-20</recordChangeDate>
+         <recordIdentifier source="Orlando">69986</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

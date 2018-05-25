@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>Meditations on the Severall Chapters of the Holy Bible</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Bridgewater, Elizabeth (Cavendish) Egerton,  Countess of</namePart>
+      </name>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">script</genre>
+      <originInfo>
+         <dateIssued encoding="iso8601">1663--</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <note type="public_note">This manuscript is owned by Lady Bridgewater's descendant the Duke of Sutherland. The Huntington Library holds a facsimile of the original, EL 8374, as well as a scribal copy, RB 297343.</note>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2013-03-19</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2013-03-19</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2013-03-21</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2013-05-31</recordChangeDate>
+         <recordIdentifier source="Orlando">75787</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

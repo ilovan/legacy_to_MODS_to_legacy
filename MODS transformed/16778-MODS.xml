@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>The Keepsake</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>The Keepsake for ....</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Reynolds, Frederic Mansel</namePart>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Norton, Caroline</namePart>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Wortley, Lady Emmeline Stuart</namePart>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Blessington, Marguerite Gardiner,  Countess of</namePart>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Power, Marguerite A.</namePart>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">journal</genre>
+      <genre displayLabel="Item Type" authority="marcgt">periodical</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>Hurst, Chance; R. Jennings</publisher>
+         <dateIssued point="start">1828</dateIssued>
+         <dateIssued point="end">1857</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>30 vols.</extent>
+      </physicalDescription>
+      <note type="public_note">Editors: Reynolds 1828-1835, 1839; Norton 1836; Wortley 1837, 1840; Blessington 1841-1850; Power 1851-1857.</note>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2003-01-27</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2003-01-27</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-01-27</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-01-27</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-01-27</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-05-22</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-12-10</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2005-09-12</recordChangeDate>
+         <recordIdentifier source="Orlando">16778</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

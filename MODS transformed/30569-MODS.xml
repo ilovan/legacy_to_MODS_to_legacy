@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>Islam's First Challenge to American Interests</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Ajami, Fouad</namePart>
+      </name>
+      <relatedItem type="host">
+         <titleInfo usage="primary">
+            <title>Guardian Weekly</title>
+         </titleInfo>
+         <titleInfo type="alternative">
+            <title>The Guardian</title>
+         </titleInfo>
+         <originInfo>
+            <dateIssued encoding="iso8601">2004-12-17</dateIssued>
+         </originInfo>
+         <part>
+            <extent unit="page">
+               <start>25</start>
+            </extent>
+         </part>
+      </relatedItem>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <typeOfResource>text</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">article</genre>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2004-12-29</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2005-09-01</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2005-10-05</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2011-06-02</recordChangeDate>
+         <recordIdentifier source="Orlando">30569</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>The Praiers made by the right Honourable Ladie Frances Aburgavennie</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Abergavenny, Frances Neville,  Baroness</namePart>
+      </name>
+      <relatedItem type="host">
+         <name type="personal">
+            <namePart>Bentley, Thomas</namePart>
+            <role>
+               <roleTerm type="text">editor</roleTerm>
+            </role>
+         </name>
+         <titleInfo usage="primary">
+            <title>The Monument of Matrones</title>
+         </titleInfo>
+         <titleInfo type="alternative">
+            <title>The Monument of Matrons</title>
+         </titleInfo>
+         <titleInfo type="alternative">
+            <title>The Monument of Matrones, conteining seven severall Lamps of Virginitie, or distinct treatises; whereof the first five concerne praier and meditation: the other two last, precepts and examples, as the woorthie works partlie of men, partlie of women; compiled for the necessarie use of both sexes out of the sacred Scriptures, and other approoved authors</title>
+         </titleInfo>
+         <originInfo>
+            <place>
+               <placeTerm type="text">London</placeTerm>
+            </place>
+            <publisher>Printed by H. Denham</publisher>
+            <dateIssued encoding="iso8601">1582--</dateIssued>
+         </originInfo>
+         <part>
+            <extent unit="page">
+               <start>139</start>
+               <end>213</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <typeOfResource>text</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">book</genre>
+      <genre displayLabel="Item Type" authority="marcgt">article</genre>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">1998-03-10</recordCreationDate>
+         <recordChangeDate encoding="iso8601">1998-03-10</recordChangeDate>
+         <recordChangeDate encoding="iso8601">1999-04-06</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2001-06-19</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2001-09-10</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2002-08-06</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-10-02</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-10-02</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-10-02</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-10-02</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2005-10-12</recordChangeDate>
+         <recordIdentifier source="Orlando">103539</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

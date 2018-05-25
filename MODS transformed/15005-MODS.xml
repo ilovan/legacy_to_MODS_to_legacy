@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>Charlotte Dacre's <extension>
+               <tei:title level="m">Zofloya</tei:title>
+            </extension>: A Case Study in Miscegenation as Sexual and Racial Nausea</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Hoeveler, Diane Long</namePart>
+      </name>
+      <relatedItem type="host">
+         <titleInfo usage="primary">
+            <title>European Romantic Review</title>
+         </titleInfo>
+         <titleInfo type="alternative">
+            <title>British Romanticism: Global Crossings</title>
+         </titleInfo>
+         <originInfo>
+            <dateIssued encoding="iso8601">1997--</dateIssued>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>8</number>
+            </detail>
+            <detail type="issue">
+               <number>2</number>
+            </detail>
+            <extent unit="page">
+               <start>185</start>
+               <end>99</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <typeOfResource>text</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">article</genre>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2002-10-16</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2002-10-16</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2002-10-28</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-04-17</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2003-04-22</recordChangeDate>
+         <recordIdentifier source="Orlando">15005</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>

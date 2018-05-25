@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:orl="http://ualberta.ca/orlando"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo usage="primary">
+         <title>Burke's Genealogical and Heraldic History of the Landed Gentry</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Burke's Landed Gentry</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Burke, John</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre displayLabel="Item Type" authority="marcgt">journal</genre>
+      <genre displayLabel="Item Type" authority="marcgt">periodical</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>Burke's Peerage</publisher>
+         <dateIssued point="start">1933</dateIssued>
+         <dateIssued point="end"/>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <note type="public_note">First published in 3 volumes 1833-35 as A Genealogical and Heraldic History of Commoners of Great Britain and Ireland, enjoying Territorial Possessions or High Official Rank. Many periodical and volume editions followed.</note>
+      <recordInfo>
+         <recordContentSource>Orlando: Women's Writing in the British Isles from the Beginnings to the Present</recordContentSource>
+         <recordContentSource>Orlando Document Archive</recordContentSource>
+         <recordContentSource authority="marcorg">CaAEU</recordContentSource>
+         <recordContentSource authority="oclcorg">UAB</recordContentSource>
+         <recordContentSource authority="oclcorg">U3G</recordContentSource>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b">eng</languageTerm>
+         </languageOfCataloging>
+         <recordCreationDate encoding="iso8601">2004-07-13</recordCreationDate>
+         <recordChangeDate encoding="iso8601">2004-08-16</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2004-11-12</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2005-02-25</recordChangeDate>
+         <recordChangeDate encoding="iso8601">2005-02-25</recordChangeDate>
+         <recordIdentifier source="Orlando">26813</recordIdentifier>
+         <recordOrigin>Record has been transformed into MODS from an XML Orlando record using an XSLT stylesheet. Metadata originally created in Orlando Document Archive's bibliographic database available at nifflheim.ualberta.ca/wwp.</recordOrigin>
+      </recordInfo>
+   </mods>
+</modsCollection>
